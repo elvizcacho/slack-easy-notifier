@@ -3,8 +3,13 @@ Easiest way to send messages to slack
 
 ## How to use
 
-1. Only set your webhook url that you can find on Slack's incomming webhook integration and set your username.
-2. Enjoy!
+1. Install the module:
+```javascript
+npm install slack-easy-notifier --save
+```
+
+2. Only set your webhook url that you can find on Slack's incomming webhook integration and set your username.
+3. Enjoy!
 
 ```javascript
 //import the module to your project
@@ -22,4 +27,7 @@ You'll see a message similar to this one.
 
 
 You only need to set webhook and username variables once. After that, you can import the module anywhere into your app to post messages.
+
+## License
+[MIT](https://github.com/elvizcacho/slack-easy-notifier/blob/master/LICENSE)
 
