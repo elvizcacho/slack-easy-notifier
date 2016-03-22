@@ -3,8 +3,8 @@ Easiest way to send messages to slack
 
 ## How to use
 
-1) Only set your webhook url that you can find on Slack's incomming webhook integration and set your username.
-2) Enjoy!
+1. Only set your webhook url that you can find on Slack's incomming webhook integration and set your username.
+2. Enjoy!
 
 ```javascript
 //import the module to your project
